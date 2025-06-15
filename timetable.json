@@ -1,0 +1,46 @@
+{
+    "Monday": {
+        "subjects": [
+            {
+                "subject": "AAD",
+                "time": "08:55-09:50",
+                "teacher": "JS"
+            },
+            {
+                "subject": "IEFT",
+                "time": "09:51-10:45",
+                "teacher": "BGE"
+            }
+        ],
+        "intervals": [
+            {
+                "name": "Zeroth Interval",
+                "time": "08:20-08:55"
+            },
+            {
+                "name": "First Interval",
+                "time": "10:46-11:00"
+            }
+        ]
+    },
+    "Tuesday": {
+        "subjects": [
+            {
+                "subject": "RIS",
+                "time": "11:01-11:50",
+                "teacher": "CMO"
+            },
+            {
+                "subject": "AAD",
+                "time": "11:51-12:45",
+                "teacher": "JS"
+            }
+        ],
+        "intervals": [
+            {
+                "name": "Second Interval",
+                "time": "12:46-13:40"
+            }
+        ]
+    }
+}
