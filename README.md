@@ -47,10 +47,10 @@ The system will automatically create an attendance/ directory for CSV records
 
 Usage
 
- Main Menu: Choose your role (Student, Teacher, Admin)
- Student Login: View your attendance records
- Teacher Login: View and manage class attendance
- Admin Panel: Manage all system data and settings
+- Main Menu: Choose your role (Student, Teacher, Admin)
+- Student Login: View your attendance records
+- Teacher Login: View and manage class attendance
+- Admin Panel: Manage all system data and settings
 
 
 # Database Structure
